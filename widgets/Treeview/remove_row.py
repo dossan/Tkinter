@@ -4,7 +4,7 @@
 """
 # Meta info
 
-Author: Nelson Brochado
+Author: nbro
 
 # Description
 
